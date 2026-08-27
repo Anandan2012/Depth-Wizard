@@ -1,0 +1,8 @@
+{
+  "name": "Depth Wizard",
+  "description": "AI-powered image depth analysis, real-world measurement, and interactive 3D visualization with Fly Mode and depth lens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
